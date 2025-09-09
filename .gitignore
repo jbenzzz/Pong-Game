@@ -89,3 +89,7 @@ Thumbs.db
 *.backup
 *.bak
 *.tmp
+
+# Project-specific: music track
+*.mp3
+*.mp3.meta
