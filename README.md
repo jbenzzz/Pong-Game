@@ -21,5 +21,6 @@ You can tweak AI responsiveness, win score, and ball speed in the scripts.
 
 ## 🛠️ Build / Executable
 
-- Build: File → Build Settings → add `MainMenu`, `1V1`, `PlayerVSPC` → Windows → Build.
-- Executable: `Exports/V2/Pong2.exe` (or `Exports/v1/Pong2.exe`).
+- Build: File → Build Settings → PC, Mac & Linux Standalone → Windows x86_64 → add `MainMenu`, `1V1`, `PlayerVSPC` (in this order) → Build.
+- Download: Grab the latest Windows build from the Releases page (`Pong2_v1.0.0_Windows_x64.zip`).
+- Run: Unzip and start `Pong2.exe`.
